@@ -1,5 +1,6 @@
 #Colleen McClain 1-21-15
 #Exercise 2 Final
+#(renamed from Exercise 1 - thus exercise1.py is referenced in log file)
 
 #Easy Option
 
