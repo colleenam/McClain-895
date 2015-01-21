@@ -1,5 +1,5 @@
 #Colleen McClain 1-21-15
-#Exercise 1 Final
+#Exercise 2 Final
 
 #Easy Option
 
@@ -7,7 +7,7 @@
 # H.C.F of two input number
 
 # define a function
-print ("Exercise 1 - Easy")
+print ("Exercise 2 - Easy")
 
 def hcf( x, y ):
 
@@ -73,7 +73,7 @@ print( "The H.C.F. of " + str( num1 ) + " and " + str( num2 ) + " is " + str( hc
 #Colleen McClain 1-21-15
 #Less Easy Option
 
-print ("Exercise 1 - Less Easy")
+print ("Exercise 2 - Less Easy")
 
 numberstry = [1,2,4,6,8,10]
 #print the list
@@ -113,7 +113,7 @@ print "The mean of the list is "+str_average
 
 #first tried to recreate the code entirely from the description, which was causing me too many problems (this is the reference to 'exercise1c' vs 'exercise1c_2' in the log)
 
-print ("Exercise 1 - Advanced, Iterative Version")
+print ("Exercise 2 - Advanced, Iterative Version")
 
 #define the function based on the existing php code
 
