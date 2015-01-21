@@ -1,4 +1,6 @@
 #Colleen McClain 1-21-15
+#Exercise 1 
+
 #Easy Option
 
 # Python program to find the
